@@ -1,0 +1,222 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="Http://www.w3.org/1999/xhtml"
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<title>Climbtastic</title> 
+<style> 
+  
+  @media only screen and (max-width: 960px){
+    .container {
+      width: 600px; 
+    }
+  }
+  @media only screen and (max-width: 600px){
+    .container {
+      width: 100%; 
+      padding: 0; 
+      margin: 0; 
+    }
+   
+}
+
+     
+</style> 
+</head> 
+    <body style="padding: 0; margin: 0; background-color: #f1f1f1;"> 
+        <!--start of htmlemail-->
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" > 
+            <tr>
+                <td>
+                    <!-- start of container-->
+                    <table class="container" width="600px" align="center" border="0" cellspacing="0" cellpadding="0" style="background-color: #ffffff;">
+                      <!--Start of Logo--> 
+                      <tr> 
+                        <td> 
+                          <table class="logo" width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="padding: 50px 50px 15px;text-align: left;">
+                            <tr> 
+                              <td> 
+                                <img src="https://i.ibb.co/Gdr436d/notes-by-tre-black-logo.png" alt="mannablacklogo" width="100%" style="max-width: 50px; ">
+                              </td> 
+                            </tr> 
+                          </table> 
+                        </td> 
+                      </tr> 
+                      <!--End of Logo Row--> 
+                      <!--Start of holiday gifts logo--> 
+                      <tr> 
+                        <td style="padding: 0; margin: 0; "> 
+                          <table class="holidaygifts" width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="padding: 0px 50px 5px;text-align: left;">
+                            <tr> 
+                              <td padding="0" margin="0"> 
+                                <img src="https://ci5.googleusercontent.com/proxy/zf_BA5u23Bp1LfY4Q4ekFzBJEH7LGKZUQNP6xWBqWNDJd5_O5tfmrRac98ivQLjBAH8oxHUDNXdlSPcGrpgq3jE0Qla5ebv99Wr8YJhdH8G9XLezx0_QU3qOoxV2nqGYEd_3zkjodBMN0B57gi76z5F9Btg=s0-d-e1-ft#https://www.beatsbydre.com/content/dam/beats/email/global/eyebrows/e01e3c/us-en/holidaygifts.png?" alt="holidaygift" width="100%" style="max-width: 100px;margin: 0; padding-left: 4px;  " margin="0" padding="0">
+                              </td> 
+                            </tr> 
+                          </table> 
+                        </td> 
+                      </tr> 
+                      <!--End of holiday gifts row--> 
+                      <!--Start of gifts--> 
+                      <tr> 
+                        <td> 
+                          <table class="lastminute" width="100%" border="0" cellspacing="0" cellpadding="0" margin="0" style="padding: 5px 50px 00px; ">
+                            <tr> 
+                              <td margin="0" padding="0"> 
+                               <p  style="font-size: 65px;line-height:0.8;  font-weight: 700px;font-family: arial-black; margin: 0;padding: 0; " margin="0" padding="0"> Last minute gifts?</p> 
+                              </td> 
+                            </tr> 
+                          </table> 
+                           <table class="justintime" width="100%" border="0" cellspacing="0" cellpadding="0" margin="0" style="padding: 3px 50px ; ">
+                            <tr> 
+                              <td margin="0" padding="0"> 
+                               <p  style="font-size: 65px;line-height:1;  font-weight: 700px;font-family: arial-black; margin: 0;padding: 0; color: red; " margin="0" padding="0"> You’re just in time.</p> 
+                              </td> 
+                            </tr> 
+                          </table> 
+                           <table class="shop" width="100%" border="0" cellspacing="0" cellpadding="0" margin="0" style="padding: 0px 50px 0; ">
+                            <tr> 
+                              <td margin="0" padding="0"> 
+                               <p  style="font-size: 16px;line-height:1;font-family: arial; margin: 0;padding: 20px 0px 10px; " margin="0" padding="0" > Order your Beats by December 21 for fast, free delivery by December 23.</p> 
+                                 <p  style="font-size: 16px;line-height:1;font-family: arial; margin: 0;padding: 10px 0px 20px; " margin="0" padding="0" > 
+In most metros, get in-stock items from your local Apple Store as late as December 24 when you choose Apple Pickup or two—hour delivery.*</p> <br> 
+
+                               <a href="#" style="background-color: black; padding: 10px 20px; border-radius: 30px;text-decoration: none; color: white;font-family: arial;  font-size: 16px;text-transform: uppercase; font-weight: 700;margin: 20px 0px;  ">shop</a> 
+                                
+                              </td> 
+                            </tr> 
+                          </table> 
+                        </td> 
+                      </tr> 
+                      <!--End of gifts Row-->
+                       <!--Start of banner image--> 
+                      <tr> 
+                        <td> 
+                          <table class="banner" width="100%" border="0" cellspacing="0" cellpadding="0" style="padding:50px 0px;">
+                            <tr> 
+                              <td> 
+                                <img src="https://i.ibb.co/G3z1KfZ/notes-by-tree-banner-01.png" alt="mannablacklogo" width="100%" margin="0" padding="0" style="max-width: 600px; ">
+                              </td> 
+                            </tr> 
+                          </table> 
+                        </td> 
+                      </tr> 
+                      <!--Start of delivery-->
+                      <tr> 
+                        <td style="padding-bottom: 50px; "> 
+                          <table width="100%" border="0" cellspacing="0" cellpadding="0" margin="0" padding="0" align="center" style="padding-right: 30px; ">
+                            <tr>
+                              <td> 
+                                <table width="20%" border="0" cellspacing="0" cellpadding="0" margin="0" padding="0" align="left" style="text-align: right; ">
+                                  <tr>
+                                    <td>
+                                      <img src="https://ci5.googleusercontent.com/proxy/zfJwe3HBrfVSt9zCjiB5BMuScNpHMDEF9sh-Eue9itDQXlmAsieoru2ORscmKezzjQWs6RySIirVPIuvNevQweXDgTwZsIbhZLBeUTYd8I-SoA8kug67FHw5Ssh_1xAr_RK7VkFGqkpmMQ=s0-d-e1-ft#https://www.beatsbydre.com/content/dam/beats/email/global/icons/non-localized/ship.png?" width="40px" alt="box">
+                                    </td>
+                                  </tr> 
+                                </table> 
+                                <table width="80%" border="0" cellspacing="0" cellpadding="0" margin="0" padding="0" align="right" >
+                                  <tr>
+                                    <td> 
+                                      <p style="font-size: 16px;font-family: arial; margin: 0;padding: 0px 20px 5px; " margin="0" padding="0" >Fast, free delivery</p> 
+                                      <p style="font-size: 16px;font-family: arial; margin: 0;padding: 0px 20px; " margin="0" padding="0" >Free two-day delivery on most in-stock items.</p> 
+                                    </td> 
+                                  </tr> 
+                                </table>
+                              </td> 
+                            </tr> 
+                          </table> 
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0" margin="0" padding="0" align="center" style="padding: 30px 0; ">
+                            <tr>
+                              <td> 
+                                <table width="20%" border="0" cellspacing="0" cellpadding="0" margin="0" padding="0" align="left" style="text-align: right; ">
+                                  <tr>
+                                    <td>
+                                      <img src="https://ci6.googleusercontent.com/proxy/VexRwUxDuADqOBsLdn3Y0NrDrn2-d0rdfDawkyI2sah3cm1rFx0MmwKmaqTwphgIw_xTshRD07ohToAAzuT64itqfg9fF9EmQN1nW3JBowNHlKYvoYjdvT9WnekArkgU5zkAkaktGlLA9g=s0-d-e1-ft#https://www.beatsbydre.com/content/dam/beats/email/global/icons/non-localized/shop.png?" width="40px" alt="applebag">
+                                    </td>
+                                  </tr> 
+                                </table> 
+                                <table width="80%" border="0" cellspacing="0" cellpadding="0" margin="0" padding="0" align="right">
+                                  <tr>
+                                    <td> 
+                                      <p style="font-size: 16px;font-family: arial; margin: 0;padding: 0px 20px 5px; " margin="0" padding="0" >	
+In-Store Pickup</p> 
+                                      <p style="font-size: 16px;font-family: arial; margin: 0;padding: 0px 20px; " margin="0" padding="0" >Pick up your Beats at an Apple Store near you.</p> 
+                                    </td> 
+                                  </tr> 
+                                </table>
+                              </td> 
+                            </tr> 
+                          </table> 
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0" margin="0" padding="0" align="center">
+                            <tr>
+                              <td> 
+                                <table width="20%" border="0" cellspacing="0" cellpadding="0" margin="0" padding="0" align="left" style="text-align: right; ">
+                                  <tr>
+                                    <td>
+                                      <img src="https://ci6.googleusercontent.com/proxy/LVZ_qcsyRZY8r68faJFUKMxBQZ8I_uAMEJFWraHvPn-DCD1oWs56NgwLc3v3YG-J621OFIpwpkzVuSzfzH-s40BQM3KBEbtJrPd_19eLAqWMTjbRBB4wEAIQvSzrzKQU_ZQ5M4pvIbB09TLb=s0-d-e1-ft#https://www.beatsbydre.com/content/dam/beats/email/global/icons/non-localized/return.png?" width="40px" alt="box">
+                                    </td>
+                                  </tr> 
+                                </table> 
+                                <table width="80%" border="0" cellspacing="0" cellpadding="0" margin="0" padding="0" align="right">
+                                  <tr>
+                                    <td> 
+                                      <p style="font-size: 16px;font-family: arial; margin: 0;padding: 0px 20px 5px; " margin="0" padding="0" >	
+	
+Extended Holiday Returns</p> 
+                                      <p style="font-size: 16px;font-family: arial; margin: 0;padding: 0px 20px; " margin="0" padding="0" >Free returns on eligible items through January 8, 2023.</p> 
+                                    </td> 
+                                  </tr> 
+                                </table>
+                              </td> 
+                            </tr> 
+                          </table> 
+                        </td>
+                      </tr>     
+                      <!--End of Delivery-->
+                        <!--Start of footer--> 
+                      <tr> 
+                        <td margin="0" padding="0" bgcolor="#252525" > 
+                          <table class="footer" width="100%" align="center" border="0" cellspacing="0" cellpadding="0" bgcolor="#252525"  style="margin: 0;padding:20px 0px ;text-align: left;color: white;  " margin="0"> 
+                            <tr>
+                              <td style="padding: 0px 50px;"> 
+                                <p>Let's get in touch:</p> 
+                              </td> 
+                            </tr> 
+                             <tr>
+                              <td style="padding: 0px 50px;"> 
+                                <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0"> 
+                                  <img src="https://ci6.googleusercontent.com/proxy/ylEZs04nXUdXJ7FkfprqzJNxRW7xNMmepMmKQlLA3UrJFItSdTe4B-rMNc2XqVsk5FZbczpnLnR6-itn2Rfnk_ameCitzWX8JjDekRPLJClMoj6htH7NZymwhzKPl-QJpco_dF7z9Q=s0-d-e1-ft#https://www.beatsbydre.com/content/dam/beats/email/global/footer/v2020-1/twitter.png" alt="facebooklogo" width="30px" style="padding: 0 5px; "> 
+                                      <img src="https://ci4.googleusercontent.com/proxy/y1vDOZPwPEQj-a4oXPo_i6XU38wwqpwwTuoh9tqwHChaFr0hxJGpDl6XFD7lYWZAAQaCL7TuyZ_eXy2UAL6obsaxFv6rB1UcdreSawjYNM6V1jLFl-07O9tyZyD_hBM5vAShzZ6p-lc=s0-d-e1-ft#https://www.beatsbydre.com/content/dam/beats/email/global/footer/v2020-1/facebook.png" alt="facebooklogo" width="30px" style="padding: 0 5px; "> 
+                                      <img src="https://ci3.googleusercontent.com/proxy/oePC33siSoc0JLvuwEJNFx6cXVWCw89f1NFgtr3mX82wOMbOlWxh1cZK_ToWbSNfPzhydVqEkmdgVvSi-M_20Bt7ya966boKRlz_ulvnMqnD4s8Q7l9pELeGupzN0VDmI8opV1AAZ5eX=s0-d-e1-ft#https://www.beatsbydre.com/content/dam/beats/email/global/footer/v2020-1/instagram.png" alt="facebooklogo" width="30px" style="padding: 0 5px; "> 
+                                      <img src="https://ci4.googleusercontent.com/proxy/N7NmuGtSbqoaOVfaHRMVV5m0D65ahRAjOFgNRdZjzLwZV0quDn5zFWVoLodr51ug9AdVIFczXGJzEjQl4fZFoY5McFDC4CgtYpLaNymWI4yMUpYtKLD0Fo9Lx1BtnZGvDCcrgXGpgg=s0-d-e1-ft#https://www.beatsbydre.com/content/dam/beats/email/global/footer/v2020-1/youtube.png" alt="facebooklogo" width="30px" style="padding: 0 5px; ">                        
+                                </table> 
+                              </td> 
+                            </tr> 
+                             <tr>
+                              <td style="padding: 0px 50px;"> 
+                                <p>
+8600 Hayden Place, Culver City, CA 90232, United States.
+                                  <br>
+                                  <br>
+Notes and the n logo are trademarks of Notes Electronics, LLC, and Apple and the Apple logo are trademarks of Apple Inc., registered in the US and other countries.
+                                  <br>
+© 2022 Apple Inc. All rights reserved.
+                                  <br>
+                                  <br>
+* In-stock items only. Excludes Notes Fit Pro and Powernotes Pro with personalized engraving. $9 two-hour delivery on eligible Apple products in most metros. Delivery times vary according to your selected delivery address, availability of your items, and the time of day you place your order. Find a store to view local store hours or see checkout for estimated delivery. A signature is required for delivery. Drivers may ask for verbal confirmation of receipt from a safe distance to satisfy the signature requirement.
+                                  <br>
+                                  <br>
+To stop receiving all emails from Notes by Pf. Tre, unsubscribe.</p> 
+                              </td>
+                            </tr>
+                          </table> 
+                        </td> 
+                      </tr> 
+                      <!--End of Break--> 
+                    </table>
+                    <!--end of container-->
+                </td>
+            </tr> 
+        </table>
+    </body> 
+</html> 
